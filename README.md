@@ -1,2 +1,16 @@
-# HI THERE
-I'm Ong Jin Yie currently study in UTM
+<h1 align="center">Hi 👋, I'm Ong Jin Yie</h1>
+<h3 align="center">Currently study in UTM, Computer Science (Computer and Network Security)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiong&label=Profile%20views&color=0e75b6&style=flat" alt="sumiong" /> </p>
+
+- 🌱 I’m currently learning **C++**
+
+- 📫 How to reach me **Sumiong0113@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jinyieong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jinyieong" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
